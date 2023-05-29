@@ -1,0 +1,30 @@
+Django sending emails
+Regex query tool
+Login system in django
+Text to html generator in django
+django chat app
+python password safe
+Django hospital management system
+Automatic tweets posting
+Python library management system
+
+Socket programming in python
+Todo app in django
+Dictionary web app
+python resume builder
+Notes app -django app
+Django quiz app
+blog web app
+
+clothes online store with payment
+Interactive web maps
+django social network app
+django pinterest clone
+News aggregator web application
+django location based web app
+content management system
+video chating website
+
+
+
+https://data-flair.training/blogs/django-project-ideas/
